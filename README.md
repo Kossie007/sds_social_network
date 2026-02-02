@@ -10,7 +10,7 @@ The primary objective is to analyze the connectivity between students by differe
 .
 ├── scripts/
 │   ├── network_analysis.R      # Main R script for processing and visualization
-│   └── output.html             # 
+│   └── SDS-network.html        # The output of the project with interactive visualizations
 └── README.md                   # Project documentation
 ```
 
